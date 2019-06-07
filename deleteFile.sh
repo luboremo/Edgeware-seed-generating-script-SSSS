@@ -1,0 +1,20 @@
+#!/bin/bash
+rm -rf mnemonic.txt
+rm -rf inspectedMnemonic.txt
+rm -rf public.txt
+rm -rf array1.txt
+rm -rf array2.txt
+rm -rf stashDerivation.txt
+rm -rf StashPunanobkey.txt
+rm -rf controllerDerivation.txt
+rm -rf ControllerPubkey.txt
+rm -rf authorityDerivation.txt
+rm -rf AuthorityPubkey.txt
+rm -rf comparisonResult.txt
+rm -rf PubKeys.txt
+rm -rf shamir.txt
+rm -rf 1stShare.txt
+rm -rf 2ndShare.txt
+rm -rf 3rdShare.txt
+rm -rf 4thShare.txt
+rm -rf 5thShare.txt
