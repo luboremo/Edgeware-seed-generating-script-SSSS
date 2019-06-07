@@ -1,20 +1,22 @@
 #!/bin/bash
-rm -rf mnemonic.txt
-rm -rf inspectedMnemonic.txt
-rm -rf public.txt
-rm -rf array1.txt
-rm -rf array2.txt
-rm -rf stashDerivation.txt
-rm -rf StashPunanobkey.txt
-rm -rf controllerDerivation.txt
-rm -rf ControllerPubkey.txt
-rm -rf authorityDerivation.txt
-rm -rf AuthorityPubkey.txt
-rm -rf comparisonResult.txt
-rm -rf PubKeys.txt
-rm -rf shamir.txt
-rm -rf 1stShare.txt
-rm -rf 2ndShare.txt
-rm -rf 3rdShare.txt
-rm -rf 4thShare.txt
-rm -rf 5thShare.txt
+sudo apt-get install secure-delete
+srm mnemonic.txt
+srm inspectedMnemonic.txt
+srm public.txt
+srm array1.txt
+srm array2.txt
+srm stashDerivation.txt
+srm StashPunanobkey.txt
+srm controllerDerivation.txt
+srm ControllerPubkey.txt
+srm authorityDerivation.txt
+srm AuthorityPubkey.txt
+srm comparisonResult.txt
+srm PubKeys.txt
+srm shamir.txt
+srm 1stShare.txt
+srm 2ndShare.txt
+srm 3rdShare.txt
+srm 4thShare.txt
+srm 5thShare.txt
+sfill -v /home
