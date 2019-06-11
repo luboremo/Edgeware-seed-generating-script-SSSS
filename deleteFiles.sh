@@ -6,7 +6,7 @@ srm public.txt
 srm array1.txt
 srm array2.txt
 srm stashDerivation.txt
-srm StashPunanobkey.txt
+srm StashPubkey.txt
 srm controllerDerivation.txt
 srm ControllerPubkey.txt
 srm authorityDerivation.txt
